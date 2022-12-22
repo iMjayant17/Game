@@ -1,2 +1,2 @@
-# Game
+# Ping Pong
 Here is my first game...
